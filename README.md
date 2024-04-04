@@ -6,7 +6,7 @@ To get started with the project, follow these steps:
 # Clone the repository:
 bash
 Copy code
-git clone <repository-url>
+git clone <https://github.com/manishdineshjha/DEMO-ToDo>
 Navigate to the project directory:
 bash
 Copy code
